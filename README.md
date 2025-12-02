@@ -18,7 +18,7 @@
 const andi = {
     name: "Andi Kelmendi",
     role: "Frontend Developer",
-    backend: "Learning PHP, MySQL & Verse",
+    backend: "Learning PHP, MySQL, Verse $ Swift",
     design: "UI/UX Designer on Figma",
     skills: ["HTML", "CSS", "JavaScript", "MySQL", "PHP (learning)", "Python (basic)"],
     passion: "Créer des interfaces modernes, propres, efficaces",
