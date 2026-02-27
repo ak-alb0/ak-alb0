@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c’est **Andi Kelmendi**
+# 👋 Salut, moi c’est **Andi KELMENDI**
 
 ### 🌐 Frontend Developer • 🎨 UI/UX Designer • 🔥 Future Full-Stack
 
@@ -16,11 +16,11 @@
 ## 💫 About Me
 ```javascript
 const andi = {
-    name: "Andi Kelmendi",
+    name: "Andi KELMENDI",
     role: "Frontend Developer",
     backend: "Learning PHP, MySQL, Verse & Swift",
     design: "UI/UX Designer on Figma",
-    skills: ["HTML", "CSS", "JavaScript", "MySQL", "PHP (learning)", "Python (basic)"],
+    skills: ["HTML", "CSS", "JavaScript", "MySQL", "PHP", "React (learning)", "Node.js (learning)" "Python (basic)"],
     passion: "Créer des interfaces modernes, propres, efficaces",
-    objective: "Devenir Full-Stack Developer"
+    objective: "Devenir Full-Stack Developer et métrise le mieux possible les langages"
 };
